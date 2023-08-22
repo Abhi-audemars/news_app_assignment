@@ -1,16 +1,10 @@
 # news_app_assignment
 
-A new Flutter project.
+to get packages run flutter pub get
+to run app run flutter run
+to build apk run flutter build apk
 
 ## Getting Started
+Forst screen is the main screen with a pageview for getting latest news from currentsapi.
+Press back to navigate to main screen which have app bar , text field for search and categories for category wise news.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
