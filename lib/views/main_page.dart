@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:news_app_assignment/utils/global_varialbles.dart';
-import 'package:news_app_assignment/views/bookmarked_news.dart';
 import 'package:news_app_assignment/views/category_feed_screen.dart';
 import 'package:news_app_assignment/views/home_page.dart';
 import 'package:news_app_assignment/views/search_screen.dart';
